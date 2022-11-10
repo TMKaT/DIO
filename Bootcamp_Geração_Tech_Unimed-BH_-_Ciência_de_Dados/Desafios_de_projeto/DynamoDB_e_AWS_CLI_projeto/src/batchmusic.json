@@ -1,0 +1,105 @@
+{
+    "Musica": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Charlie Brown Jr."},
+                  "TituloMusica": {"S": "Too Fast to Live, Too Young to Die"},
+                  "TituloAlbum": {"S": "Imunidade Musical"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Charlie Brown Jr."},
+                  "TituloMusica": {"S": "Lutar Pelo Que é Meu"},
+                  "TituloAlbum": {"S": "Imunidade Musical"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Charlie Brown Jr."},
+                  "TituloMusica": {"S": "Ela Vai Voltar (Todos os Defeitos de Uma Mulher Perfeita)"},
+                  "TituloAlbum": {"S": "Imunidade Musical"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Charlie Brown Jr."},
+                  "TituloMusica": {"S": "Pra Não Dizer Que Não Falei das Flores"},
+                  "TituloAlbum": {"S": "Imunidade Musical"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Charlie Brown Jr."},
+                  "TituloMusica": {"S": "Dias de Luta, Dias de Glória"},
+                  "TituloAlbum": {"S": "Imunidade Musical"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Detonautas Roque Clube"},
+                  "TituloMusica": {"S": "Olhos Certos"},
+                  "TituloAlbum": {"S": "Detonautas Roque Clube"},
+                  "AnoMusica": {"S": "2002"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "CPM 22"},
+                  "TituloMusica": {"S": "Um Minuto Para o Fim do Mundo"},
+                  "TituloAlbum": {"S": "Felicidade Instantânea"},
+                  "AnoMusica": {"S": "2005"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "CPM 22"},
+                  "TituloMusica": {"S": "Dias Atrás"},
+                  "TituloAlbum": {"S": "Chegou a Hora de Recomeçar"},
+                  "AnoMusica": {"S": "2002"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "CPM 22"},
+                  "TituloMusica": {"S": "Não Sei Viver Sem Ter Você"},
+                  "TituloAlbum": {"S": "Chegou a Hora de Recomeçar"},
+                  "AnoMusica": {"S": "2002"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "CPM 22"},
+                  "TituloMusica": {"S": "O Mundo Dá Voltas"},
+                  "TituloAlbum": {"S": "A Alguns Quilômetros de Lugar Nenhum"},
+                  "AnoMusica": {"S": "2000"}
+                }
+            }
+        }
+      ]
+}
+
