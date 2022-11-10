@@ -13,4 +13,4 @@ Durante este projeto estudamos os dados da disseminação da COVID-19, no Brasil
 * Modelando os dados com a biblioteca ARIMA :heavy_check_mark:
 * Modelo de crescimento com a biblioteca fbprophet :heavy_check_mark:
 
-O arquivo de código utilizado para realizar as análises pode ser encontrado [aqui](https://github.com/TMKaT/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20de%20projeto/Criando%20modelos%20com%20Python%20e%20Machine%20Learning%20para%20prever%20a%20evolu%C3%A7%C3%A3o%20do%20COVID-19%20no%20Brasil/Criando_modelos_com_Python_e_Machine_Learning_para_prever_a_evolu%C3%A7%C3%A3o_do_COVID_19_no_Brasil.ipynb).
+O arquivo de código utilizado para realizar as análises pode ser encontrado [aqui]().
