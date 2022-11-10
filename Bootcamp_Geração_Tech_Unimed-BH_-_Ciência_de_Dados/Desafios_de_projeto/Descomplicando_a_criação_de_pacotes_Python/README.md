@@ -21,7 +21,7 @@ Este projeto tem por intuito ensinar a criar pacotes pacote de processamento de 
 ```Instalação de dependências
 pip install -r requirements.txt
 ```
-Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/processamento_basico_de_imagens) para processamento_basico_de_imagens
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para processamento_basico_de_imagens
 ```bash
 pip install processamento_basico_de_imagens
 ```
