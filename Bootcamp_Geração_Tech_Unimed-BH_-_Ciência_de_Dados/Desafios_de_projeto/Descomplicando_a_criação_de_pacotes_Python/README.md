@@ -1,23 +1,21 @@
 # Descomplicando a criação de pacotes de processamento de imagens em Python
 Este projeto tem por intuito ensinar a criar pacotes pacote de processamento de imagens em Python e disponibilizá-lo no repositório Pypi. Podendo, assim, reutilizá-lo com facilidade e compartilhá-lo com outras pessoas.
 
----
-
 # Processamento básico de imagens
 
 O Processamento básico de imagens deste pacote permite:
 	
-- Módulo "processamento":
-  - Correspondência de histograma;
-  - Similaridade estrutural;
-  - Redimensionar imagem;
+- **Módulo _processamento_**
+  - Correspondência de histograma
+  - Similaridade estrutural
+  - Redimensionar imagem
 	
-- Módulo "utilidades":
-  - Ler imagem;
-  - Salvar imagem;
-  - Plotar imagem;
-  - Resultado do gráfico;
-  - Plotar histograma;
+- **Módulo _utilidades_**
+  - Ler imagem
+  - Salvar imagem
+  - Plotar imagem
+  - Resultado do gráfico
+  - Plotar histograma
 
 ## Instalação
 
