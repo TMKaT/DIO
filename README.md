@@ -1,6 +1,6 @@
 <h1 align="center"> Repositório criado para adicionar os meus projetos da plataforma da DIO </h1>
 
-Neste repositório, ficaram os bootcamps e projetos realizados através da [DIO](https://www.dio.me/)
+Repositório criado para registrar os bootcamps e projetos realizados através da [DIO](https://www.dio.me/)
 
 ## Bootcamp Geração Tech Unimed-BH - Ciência de Dados 
 
