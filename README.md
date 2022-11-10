@@ -24,4 +24,4 @@ Repositório criado para registrar os bootcamps e projetos realizados através d
 
 O bootcamp tem por objetivo trazer experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning.
 
-Fique a vontade para navegar pelos [meus projetos](https://github.com/TMKaT/DIO/tree/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20de%20projeto) e minhas respostas aos [desáfios de código](https://github.com/TMKaT/DIO/tree/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20de%20c%C3%B3digo%20PY) propostos pela plataforma.
+Fique a vontade para navegar pelos [meus projetos](https://github.com/TMKaT/DIO/tree/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20de%20projeto) e minhas respostas aos [desafios de código](https://github.com/TMKaT/DIO/tree/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20de%20c%C3%B3digo%20PY) propostos pela plataforma.
